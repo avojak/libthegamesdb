@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource>
+    <file>data/games-by-name-response.json</file>
+  </gresource>
+</gresources>

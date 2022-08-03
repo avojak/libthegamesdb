@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=TheGamesDB Demo
+Comment=A demo of the libthegamesdb
+Exec=thegamesdb-demo
+Icon=applications-development
+Type=Application
+NoDisplay=true
+StartupWMClass=thegamesdb-demo

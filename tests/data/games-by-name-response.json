@@ -1,0 +1,59 @@
+{
+  "code": 200,
+  "status": "Success",
+  "data": {
+    "count": 1,
+    "games": [
+      {
+        "id": 3490,
+        "game_title": "Poku00e9mon FireRed Version",
+        "release_date": "2004-09-07",
+        "platform": 5,
+        "region_id": 1,
+        "country_id": 0,
+        "rating": "E - Everyone",
+        "developers": [
+          3314
+        ]
+      }
+    ]
+  },
+  "include": {
+    "boxart": {
+      "base_url": {
+        "original": "https://cdn.thegamesdb.net/images/original/",
+        "small": "https://cdn.thegamesdb.net/images/small/",
+        "thumb": "https://cdn.thegamesdb.net/images/thumb/",
+        "cropped_center_thumb": "https://cdn.thegamesdb.net/images/cropped_center_thumb/",
+        "medium": "https://cdn.thegamesdb.net/images/medium/",
+        "large": "https://cdn.thegamesdb.net/images/large/"
+      },
+      "data": {
+        "3490": [
+          {
+            "id": 8169,
+            "type": "boxart",
+            "side": "back",
+            "filename": "boxart/back/3490-1.jpg",
+            "resolution": "1530x1370"
+          },
+          {
+            "id": 286658,
+            "type": "boxart",
+            "side": "front",
+            "filename": "boxart/front/3490-1.jpg",
+            "resolution": null
+          }
+        ]
+      }
+    }
+  },
+  "pages": {
+    "previous": null,
+    "current": "https://api.thegamesdb.net/v1.1/Games/ByGameName?fields=rating&apikey=8e8fdcbb244820e0cdc61e17daf8d28f21bc578e9aba8c3191af2f9829867f23&name=Pokemon+-+FireRed+Version&include=boxart&page=1",
+    "next": null
+  },
+  "remaining_monthly_allowance": 2960,
+  "extra_allowance": 0,
+  "allowance_refresh_timer": 20358
+}
